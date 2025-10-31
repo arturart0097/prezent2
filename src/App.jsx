@@ -374,6 +374,9 @@ function App() {
           </ul>
         </div>
       </div>
+      <br />
+      <br />
+      <h1 style={{color: "#000"}}>Виконала: Пряха Каріна 2-22</h1>
     </div>
   );
 }
